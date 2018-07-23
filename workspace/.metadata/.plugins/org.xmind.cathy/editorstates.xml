@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editors>
+<editor id="org.xmind.ui.MindMapEditor" name="000我的笔记" partName="000我的笔记" title="000我的笔记" tooltip="E:\workStation\sport\000我的笔记.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/workStation/sport/000我的笔记.xmind">
+<state tempLocation="E:\workStation\sport\workspace\temp\workbooks\49dda449-19dc-4a8c-91b5-c4383194a808.xmind.temp"/>
+</input>
+</editor>
+<editor id="org.xmind.ui.MindMapEditor" name="07082018 全网预售2.0" partName="07082018 全网预售2.0" title="07082018 全网预售2.0" tooltip="E:\daily\07082018 全网预售2.0.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/daily/07082018%20全网预售2.0.xmind">
+<state tempLocation="E:\workStation\sport\workspace\temp\workbooks\c81f0cb6-d194-41de-97f7-4bfba2b9016f.xmind.temp"/>
+</input>
+</editor>
+<editor id="org.xmind.ui.MindMapEditor" name="07082018 微商城" partName="07082018 微商城" title="07082018 微商城" tooltip="E:\daily\07082018 微商城.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/daily/07082018%20微商城.xmind">
+<state tempLocation="E:\workStation\sport\workspace\temp\workbooks\eaf6d641-71fe-44a7-b4a0-217fd15bf7d4.xmind.temp"/>
+</input>
+</editor>
+<editor id="org.xmind.ui.MindMapEditor" name="在线预约1.2前端-廖静承" partName="在线预约1.2前端-廖静承" title="在线预约1.2前端-廖静承" tooltip="E:\workStation\V3.7.3-微商城1.2（yuxia）\在线预约1.2前端-廖静承.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/workStation/V3.7.3-微商城1.2（yuxia）/在线预约1.2前端-廖静承.xmind">
+<state tempLocation="E:\workStation\sport\workspace\temp\workbooks\ca7bd374-0648-4f00-a080-04c6cb7d3ce9.xmind.temp"/>
+</input>
+</editor>
+</editors>

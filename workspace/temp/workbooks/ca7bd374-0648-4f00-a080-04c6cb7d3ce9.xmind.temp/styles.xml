@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmap-styles xmlns="urn:xmind:xmap:xmlns:style:2.0" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" version="2.0"><automatic-styles><style id="6cmq2kl9n9kb01i0p4geo62gma" name="" type="relationship">
+			<relationship-properties fo:font-family="Raleway" fo:font-size="10pt" line-color="#266BDF" line-pattern="dot"/>
+		</style><style id="5njfkucn56rlng995la332qob0" name="" type="topic">
+			<topic-properties fo:font-family="Open Sans" line-class="org.xmind.branchConnection.curve" shape-class="org.xmind.topicShape.ellipse" svg:fill="#ADF3A3"/>
+		</style><style id="12t9vje9tknfe878p7v9culvnf" name="" type="topic">
+			<topic-properties callout-shape-class="org.xmind.calloutTopicShape.balloon.roundedRect" fo:font-family="Open Sans" fo:font-style="italic" fo:font-weight="normal" svg:fill="#FFFFD2"/>
+		</style><style id="7i7bbr58qcj1t6efeoferaonh9" name="" type="map">
+			<map-properties color-gradient="gradient" line-tapered="tapered" multi-line-colors="#017c98 #00b2a1 #ffdd00 #fc8f00 #ff1500 #00b04c" rainbowcolor="true" spinylines="true" svg:fill="#FCFCE9"/>
+		</style><style id="0fh21d9n9ebiv1k1mhk8hqc78c" name="" type="topic">
+			<topic-properties fo:font-family="Open Sans" fo:font-weight="normal"/>
+		</style><style id="0qlkmf6q2ef7c2mop72n5pjuon" name="" type="topic">
+			<topic-properties fo:font-family="Open Sans" fo:font-size="14pt" svg:fill="#F5F1BC"/>
+		</style><style id="2o3m6t2ctcu4m3i0853mffrb80" name="" type="topic">
+			<topic-properties fo:font-family="Open Sans" line-class="org.xmind.branchConnection.roundedElbow" svg:fill="#C2D6F1"/>
+		</style><style id="2b1147ur540d6ojnclgofhqto8" name="" type="topic">
+			<topic-properties border-line-width="0pt" fo:font-family="Raleway" shape-class="org.xmind.topicShape.ellipse" svg:fill="#D9D9D9"/>
+		</style><style id="136kg8e3faoj1duladv118061t" name="" type="boundary">
+			<boundary-properties fo:font-family="Raleway" fo:font-size="10pt" line-color="#E67B57" shape-class="org.xmind.boundaryShape.scallops" svg:fill="#FFFF80" svg:opacity=".77"/>
+		</style></automatic-styles><master-styles><style id="2aoo5sl9gmef5m7paj3irs0oi1" name="%ClassicII" type="theme">
+			<theme-properties>
+				<default-style style-family="relationship" style-id="6cmq2kl9n9kb01i0p4geo62gma"/>
+				<default-style style-family="centralTopic" style-id="5njfkucn56rlng995la332qob0"/>
+				<default-style style-family="calloutTopic" style-id="12t9vje9tknfe878p7v9culvnf"/>
+				<default-style style-family="map" style-id="7i7bbr58qcj1t6efeoferaonh9"/>
+				<default-style style-family="subTopic" style-id="0fh21d9n9ebiv1k1mhk8hqc78c"/>
+				<default-style style-family="floatingTopic" style-id="0qlkmf6q2ef7c2mop72n5pjuon"/>
+				<default-style style-family="mainTopic" style-id="2o3m6t2ctcu4m3i0853mffrb80"/>
+				<default-style style-family="summaryTopic" style-id="2b1147ur540d6ojnclgofhqto8"/>
+				<default-style style-family="boundary" style-id="136kg8e3faoj1duladv118061t"/>
+			</theme-properties>
+		</style></master-styles><styles><style id="4gn7ce65t2ti7fgl50lkrp8l09" type="map"><map-properties svg:fill="#DBEEF4"/></style><style id="7bsk3mnovp7tm0rnvgbefkebv8" type="map"><map-properties svg:fill="#F2F2F2"/></style></styles></xmap-styles>
